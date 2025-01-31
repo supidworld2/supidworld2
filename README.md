@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supidworld2
 - 👀 I’m interested in money
-- 🌱 I’m currently learning JavaScript,HTML,Python
+- 🌱 I’m currently learning Java,Html,Phython
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me thru chat???
 <!---
