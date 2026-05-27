@@ -8,13 +8,17 @@ Welcome to my GitHub profile! I am a passionate Bachelor of Science in Informati
 
 🚀 About Me
 - 🏫 **Education:** Pursuing a BSIT degree 
-- 💡 **Core Interests:** Object-Oriented Programming (OOP), MVC Architecture, Database Design, and Web Optimization.
+- 💡 **Core Interests:** Object-Oriented Programming (OOP), MVC Architecture, Database Design, Web Optimization and Network Routing & Switching.
 - 🎨 **Creative Side:** When I'm not coding, I'm editing videos and working on digital media projects.
 - 🌱 **Current Focus:** Deepening my knowledge of enterprise Java and mastering the Laravel framework.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
+
+### 🌐 Networking & Infrastructure
+- **Routing & Switching:** Cisco IOS configuration, VLANs, Subnetting, Routing Protocols (OSPF/EIGRP)
+- **Tools:** Cisco Packet Tracer
 
 ### 🖥️ Backend & Core Languages
 - **Languages:** Java, PHP, JavaScript
